@@ -1,0 +1,86 @@
+body {
+    background-image: linear-gradient( white, orange, #8b4000);
+    font-family: monospace;
+    display: flex;
+    min-height: 100vh;
+}
+
+.container {
+    margin: auto;
+    background-color: white;
+    padding: 20px;
+    max-width: 90%;
+    width: 500px;
+    border-radius: 5px;
+}
+
+.text {
+    text-align: center;
+    color: rgb(245, 65, 10);
+}
+
+.email {
+    margin-top: 7%;
+    margin-left: 3%;
+    margin-right: 3%;
+}
+
+.Username {
+    margin-left: 3%;
+    margin-right: 3%;
+}
+
+.password {
+    margin-left: 3%;
+    margin-right: 3%;
+}
+
+.email-id {
+    width: 99%;
+    height: 30px;
+    margin: 10px 0 20px 0;
+    border: 1px solid grey;
+    border-radius: 2px;
+}
+
+.user-name {
+    width: 99%;
+    height: 30px;
+    margin: 10px 0 20px 0;
+    border: 1px solid grey;
+    border-radius: 2px;
+}
+
+.pass-word {
+    width: 99%;
+    height: 30px;
+    margin: 10px 0 20px 0;
+    border: 1px solid grey;
+    border-radius: 2px;
+}
+
+.sign {
+    background-color: rgb(245, 65, 10);
+    color: white;
+    border: none;
+    border-radius: 5px;
+    width: 80%;
+    margin-left: 35px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    cursor: pointer;
+    margin-top: 15px;
+    margin-left: 10%;
+}
+
+.login{
+    text-align: center;
+}
+
+.login-span{
+    color: rgb(245, 65, 10);
+}
+
+a{
+    color: rgb(245, 65, 10);
+}
